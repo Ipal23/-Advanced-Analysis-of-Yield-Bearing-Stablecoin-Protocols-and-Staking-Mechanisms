@@ -82,25 +82,26 @@ These ratios indicate that sDAI offers the best risk-adjusted return among the a
 ## Visual Insights
 
 ### Yield-Bearing Stablecoins APY Comparison
-![APY Comparison](link_to_apys_comparison_plot)
+![APY Comparison](images/apys_comparison.png)
 
 ### Liquidity Risk Distribution
-![Liquidity Risk](link_to_liquidity_risk_plot)
+![Liquidity Risk](images/liquidity_risk.png)
 
 ### Average APY by Type
-![Average APY by Type](link_to_average_apy_by_type_plot)
+![Average APY by Type](images/average_apy_by_type.png)
 
 ### Staking Rewards Comparison
-![Staking Rewards](link_to_staking_rewards_plot)
+![Staking Rewards](images/staking_rewards.png)
 
 ### Market Capitalization of Yield-Bearing Stablecoins
-![Market Capitalization](link_to_market_capitalization_plot)
+![Market Capitalization](images/market_capitalization.png)
 
 ### Correlation Matrix Heatmap
-![Correlation Heatmap](link_to_correlation_heatmap)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Sharpe Ratio Comparison
-![Sharpe Ratio](link_to_sharpe_ratio_plot)
+![Sharpe Ratio](images/sharpe_ratio.png)
+
 
 ## Insights and Recommendations
 

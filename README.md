@@ -1,4 +1,3 @@
-# -Advanced-Analysis-of-Yield-Bearing-Stablecoin-Protocols-and-Staking-Mechanisms
 # Yield-Bearing Stablecoin Protocols and Staking Mechanisms Analysis Report
 
 ## Introduction
